@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ovishek-dev
+- 👋 Hi, I’m @lambdahex
 - 👀 I’m interested in computational mathematics, electronic systems and signal analysis, system security, coding
 - 🌱 I’m currently learning Electrical and Electronic Engineering 
 - 💞️ I’m looking to collaborate on ...
